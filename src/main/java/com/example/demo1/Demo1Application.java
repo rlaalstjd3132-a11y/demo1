@@ -29,8 +29,8 @@ public String getStatus() {
         return "Application is running";
     }
 
-    public String getA() {
-        return "A";
+    public String getF() {
+        return "F";
     }
     public String getB() {
         return "B";
