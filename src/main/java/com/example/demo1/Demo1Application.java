@@ -21,6 +21,9 @@ public int addNumbers(int a, int b) {
 public String getStatus() {
    return "Application is running";
 }
+    public String getC() {
+        return "C";
+    }
 
     public String getStatus1() {
         return "Application is running";
