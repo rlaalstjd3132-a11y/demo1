@@ -29,4 +29,7 @@ public String getStatus() {
     public String getA() {
         return "A";
     }
+    public String getB() {
+        return "B";
+    }
 }
